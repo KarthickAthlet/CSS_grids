@@ -1,1 +1,3 @@
 # CSS_grids
+
+# NOTES:
